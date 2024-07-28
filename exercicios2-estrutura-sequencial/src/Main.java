@@ -17,7 +17,7 @@ public class Main {
         double area;
         area = 3.14159 * Math.pow(raio, 2);
 
-        System.out.printf("A = %.4f%n", area);
+        System.out.printf("A = %.4f", area);
 
         sc.close();
 
