@@ -17,7 +17,7 @@ public class Main {
         int z;
         z = x+y;
 
-        System.out.println("SOMA X + Y = " + z);
+        System.out.println("SOMA = " + z);
         System.out.println();
         sc.close();
         
