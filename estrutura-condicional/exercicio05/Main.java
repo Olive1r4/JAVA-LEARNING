@@ -14,6 +14,19 @@ public class Main {
         if (x == 1) {
             System.out.printf("Total: R$ %.2f %n", (x*4.00));
         }
+        else if (x == 2) {
+            System.out.printf("Total: R$ %.2f %n", (x*4.50));
+        }
+        else if (x == 3) {
+            System.out.printf("Total: R$ %.2f %n", (x*5.00));
+        }
+        else if (x == 4) {
+            System.out.printf("Total: R$ %.2f %n", (x*2.00));
+        }
+        else if (x == 5) {
+            System.out.printf("Total: R$ %.2f %n", (x*1.50));
+        }
         sc.close();
     }
 }
+
